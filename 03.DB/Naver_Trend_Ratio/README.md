@@ -1,0 +1,1 @@
+- Naver_Trend Ratio Data Set: 2017.01.01 ~ 2021.0929
