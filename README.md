@@ -6,6 +6,6 @@ Toy_Project_EDA
 # Team Member : 김다희, 심태양, 백승재
 # EDA Process :
 <p align='center'>
-    <img src="./04.image/Sequence/PRJ EDA Process.drawio_SJP.png"/>
+    <img src="./04.Image/Sequence/PRJ EDA Process.drawio_SJP.png"/>
 </p>
 
